@@ -1,7 +1,7 @@
 {
     "batch_size": 128,
     "n_epochs": 100,
-    "data_path": "/scratch/ry649/VAE_data/data_merge/data.npy",
+    "data_path": "../data.npy",
     "lr": 1e-3,
     "decay": 0.9999,
     "if_parallel": true,
