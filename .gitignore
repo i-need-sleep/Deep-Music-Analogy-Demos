@@ -1,3 +1,9 @@
 data.npy
 
 test.ipynb
+
+code/log
+code/params
+
+*.err
+*.out
